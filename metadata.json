@@ -1,0 +1,5 @@
+{
+  "name": "i College Attendance System",
+  "description": "A modern, AI-powered attendance management system for colleges. It provides role-based dashboards for admins, teachers, and students, and leverages the Gemini API for attendance insights and a helpful chatbot.",
+  "requestFramePermissions": []
+}
